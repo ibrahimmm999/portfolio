@@ -102,7 +102,7 @@ const projects = [
     type: "web",
   },
   {
-    id: 9,
+    id: 10,
     title: "Laundry App",
     description: "Application for laundry management.",
     image: "/projects/laundryapp.png",
@@ -113,7 +113,7 @@ const projects = [
     type: "mobile",
   },
   {
-    id: 10,
+    id: 11,
     title: "MIND",
     description:
       "Application developed using Design Thinking to help students and young people practice self-love and care for their mental health.",
@@ -123,6 +123,17 @@ const projects = [
       "https://drive.google.com/file/d/1zgzPY65Pi0-yWtqmkZmCLeJdVOmjuoZn/view?usp=sharing",
     githubUrl: "https://github.com/ibrahimmm999/Milestone02_K14",
     type: "mobile",
+  },
+  {
+    id: 12,
+    title: "Cartify",
+    description:
+      "A responsive e-commerce web app with product filtering, sorting, and category-based browsing.",
+    image: "/projects/cartify.jpg",
+    tags: ["React", "TailwindCSS"],
+    demoUrl: "https://cartify-woad.vercel.app/",
+    githubUrl: "https://github.com/ibrahimmm999/cartify",
+    type: "web",
   },
 ];
 
